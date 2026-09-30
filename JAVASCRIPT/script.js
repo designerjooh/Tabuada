@@ -34,4 +34,3 @@ function Mostrar()
 
     document.getElementById("alunos").innerHTML = saida2;
 }
-
